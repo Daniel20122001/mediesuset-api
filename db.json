@@ -1,0 +1,239 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Metallica kommer på Mediesuset",
+      "body": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin.",
+        "Chicken meatloaf cow ground round boudin brisket, shankle picanha buffalo. Pork loin rump strip steak bresaola, tail beef spare ribs. Swine sirloin t-bone tenderloin salami cow. Meatloaf chislic tri-tip beef short ribs short loin. Filet mignon shank sirloin ball tip turkey. Leberkas beef ribs pastrami, turkey chislic porchetta pancetta buffalo chicken kevin cow strip steak picanha. Brisket andouille tenderloin salami ham chislic.",
+        "Fatback cupim capicola cow alcatra kielbasa shankle short ribs tongue pig landjaeger. Landjaeger chuck kevin short ribs porchetta burgdoggen t-bone tail hamburger leberkas jowl turkey brisket shank shankle. Doner chislic leberkas turducken cow spare ribs. Meatloaf turducken pork kevin. Pork loin jerky ham short ribs cow capicola. Biltong picanha swine ham, venison short ribs shank t-bone boudin cow. Doner chicken t-bone sausage buffalo cupim."
+      ],
+      "image": {
+        "src": "http://localhost:4000/Metallica_Photo.jpg",
+        "width": 360,
+        "height": 190,
+        "title": "Foto af bandmedlemmerne i Metallica"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Hancock skriver kontrakt med Mediesuset",
+      "body": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin.",
+        "Chicken meatloaf cow ground round boudin brisket, shankle picanha buffalo. Pork loin rump strip steak bresaola, tail beef spare ribs. Swine sirloin t-bone tenderloin salami cow. Meatloaf chislic tri-tip beef short ribs short loin. Filet mignon shank sirloin ball tip turkey. Leberkas beef ribs pastrami, turkey chislic porchetta pancetta buffalo chicken kevin cow strip steak picanha. Brisket andouille tenderloin salami ham chislic.",
+        "Fatback cupim capicola cow alcatra kielbasa shankle short ribs tongue pig landjaeger. Landjaeger chuck kevin short ribs porchetta burgdoggen t-bone tail hamburger leberkas jowl turkey brisket shank shankle. Doner chislic leberkas turducken cow spare ribs. Meatloaf turducken pork kevin. Pork loin jerky ham short ribs cow capicola. Biltong picanha swine ham, venison short ribs shank t-bone boudin cow. Doner chicken t-bone sausage buffalo cupim."
+      ],
+      "image": {
+        "src": "http://localhost:4000/beer.jpg",
+        "width": 400,
+        "height": 267,
+        "title": "En flok mennesker, der skåler og drikker øl"
+      }
+    }
+  ],
+  "bands": [
+    {
+      "id": 1,
+      "name": "Metallica",
+      "day": "Fredag",
+      "time": "22:00",
+      "stage": "Blå Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/Metallica_Photo.jpg",
+        "width": 360,
+        "height": 190,
+        "title": "Foto af bandmedlemmerne i Metallica"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Slipknot",
+      "day": "Torsdag",
+      "time": "21:30",
+      "stage": "Rød Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/slipknot.jpg",
+        "width": 450,
+        "height": 247,
+        "title": "Foto af bandmedlemmerne i Slipknot"
+      }
+    },
+    {
+      "id": 3,
+      "name": "D-A-D",
+      "day": "Onsdag",
+      "time": "20:00",
+      "stage": "Blå Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/d-a-d.jpg",
+        "width": 454,
+        "height": 255,
+        "title": "Foto af bandmedlemmerne i D-A-D"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Red Warzawa",
+      "day": "Fredag",
+      "time": "15:00",
+      "stage": "Lilla Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/red-warzawa.jpg",
+        "width": 400,
+        "height": 266,
+        "title": "Foto af bandmedlemmerne i Red Warzawa"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Steel Inferno",
+      "day": "Lørdag",
+      "time": "21:00",
+      "stage": "Blå Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/steel-inferno.jpg",
+        "width": 928,
+        "height": 688,
+        "title": "Foto af bandmedlemmerne i Steel Inferno"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Korn",
+      "day": "Lørdag",
+      "time": "23:00",
+      "stage": "Rød Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/korn.jpg",
+        "width": 450,
+        "height": 337,
+        "title": "Foto af bandmedlemmerne i Korn"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Disturbed",
+      "day": "Onsdag",
+      "time": "23:00",
+      "stage": "Rød Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/disturbed.jpg",
+        "width": 460,
+        "height": 300,
+        "title": "Foto af bandmedlemmerne i Disturbed"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Volbeat",
+      "day": "Lørdag",
+      "time": "20:00",
+      "stage": "Grøn Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/volbeat.jpg",
+        "width": 1080,
+        "height": 720,
+        "title": "Foto af bandmedlemmerne i Volbeat"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Big Fat Snake",
+      "day": "Torsdag",
+      "time": "21:00",
+      "stage": "Grøn Scene",
+      "description": [
+        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
+        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+      ],
+      "image": {
+        "src": "http://localhost:4000/bfs.jpg",
+        "width": 468,
+        "height": 291,
+        "title": "Foto af bandmedlemmerne i Big Fat Snake"
+      }
+    }
+  ],
+  "users": [
+    {
+      "email": "be@rts.dk",
+      "password": "$2a$10$R98Vvvd0FvOzN0jpOPbpM.J49saIOdLpL2yV.8VrygBHe79mWLAqO",
+      "name": "Brian Emilius",
+      "address": "Pulsen 8",
+      "zip-code": "4000",
+      "city": "Roskilde",
+      "ticket-pickup": false,
+      "camp": "Skrald",
+      "ticket-count": 2,
+      "id": 1
+    }
+  ],
+  "my-program": [
+    {
+      "userId": 1,
+      "band": 5,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "band": 3,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "band": 1,
+      "id": 3
+    }
+  ],
+  "subscribe": [
+    {
+      "email": "be@rts.dk",
+      "id": 1
+    }
+  ]
+}
