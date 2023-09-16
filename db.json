@@ -11,30 +11,6 @@
       "camp": "Skrald",
       "ticket-count": 2,
       "id": 1
-    },
-    {
-      "email": "clue@rts.dk",
-      "password": "$2a$10$AyBuTW5XtyO/MqNl6WV5KOqD7WpcQsvW0a.a6GemT2BFGhVBSnd96",
-      "name": "Brian Emilius",
-      "address": "Pulsen 8",
-      "zip-code": "4000",
-      "city": "Roskilde",
-      "ticket-pickup": false,
-      "camp": "Skrald",
-      "ticket-count": 2,
-      "id": 2
-    },
-    {
-      "email": "bla@rts.dk",
-      "password": "$2a$10$.sxPulQhHUay.3vAVdg.Qu5SbwHHpz8tQgWlJnWTbW/Bo3ZBRAy0.",
-      "name": "Brian Emilius",
-      "address": "Pulsen 8",
-      "zip-code": "4000",
-      "city": "Roskilde",
-      "ticket-pickup": false,
-      "camp": "Skrald",
-      "ticket-count": 2,
-      "id": 3
     }
   ],
   "news": [
@@ -94,7 +70,7 @@
         "Metallica har også været pionerer inden for metal-musikdistribuering og var en af de første bands, der omfavnede internettet og digitale platforme for at nå deres fans. De har også været involveret i velgørenhedsarbejde og er aktive fortalere for musikundervisning og hjælper organisationer, der støtter veteraner og socialt udsatte grupper. Bandet fortsætter med at turnere og skabe ny musik, hvilket sikrer, at deres arv i heavy metal-verdenen forbliver stærk."
       ],
       "image": {
-        "credits":"Metallica Press Photo",
+        "credits": "Metallica Press Photo",
         "src": "http://localhost:4000/file-bucket/Metallica_Photo.jpg",
         "width": 360,
         "height": 190,
@@ -113,7 +89,7 @@
         "Slipknot har gennemgået flere musikalske udviklinger i løbet af deres karriere, hvilket har holdt dem friske og relevante i heavy metal-genren. Deres liveoptrædener er legendariske og kendt for deres energi og teatralske elementer, herunder medlemmernes bevægelse på scenen og brugen af ​​perkussion og samples. Med adskillige multi-platinum-albums og en dedikeret fanbase fortsætter Slipknot med at præge heavy metal-landskabet og efterlade et uudsletteligt aftryk på musikverdenen."
       ],
       "image": {
-        "credits":"Slipknot press photo",
+        "credits": "Slipknot press photo",
         "src": "http://localhost:4000/file-bucket/slipknot.jpg",
         "width": 450,
         "height": 247,
@@ -392,10 +368,6 @@
     {
       "email": "be@rts.dk",
       "id": 1
-    },
-    {
-      "email": "be@rts.dk",
-      "id": 2
     }
   ]
 }
