@@ -18,7 +18,12 @@ app.use(jsonServer.bodyParser);
 const rules = auth.rewriter({
   // Permission rules
   users: 600,
-  "my-program": 600
+  //"/my-program/:userId": "/600/my-program?userId=:userId&expand=band"
+
+  "/my-program": "/600/users_bands",
+  "/my-program/:id": "/600/users_bands/:id",
+
+  "/my-program?userId=:userId": "/600/users_bands?userId=:userId&expand=band"
 });
 
 // You must apply the auth middleware before the router

@@ -1,17 +1,59 @@
 {
+  "users": [
+    {
+      "email": "be@rts.dk",
+      "password": "$2a$10$R98Vvvd0FvOzN0jpOPbpM.J49saIOdLpL2yV.8VrygBHe79mWLAqO",
+      "name": "Brian Emilius",
+      "address": "Pulsen 8",
+      "zip-code": "4000",
+      "city": "Roskilde",
+      "ticket-pickup": false,
+      "camp": "Skrald",
+      "ticket-count": 2,
+      "id": 1
+    },
+    {
+      "email": "clue@rts.dk",
+      "password": "$2a$10$AyBuTW5XtyO/MqNl6WV5KOqD7WpcQsvW0a.a6GemT2BFGhVBSnd96",
+      "name": "Brian Emilius",
+      "address": "Pulsen 8",
+      "zip-code": "4000",
+      "city": "Roskilde",
+      "ticket-pickup": false,
+      "camp": "Skrald",
+      "ticket-count": 2,
+      "id": 2
+    },
+    {
+      "email": "bla@rts.dk",
+      "password": "$2a$10$.sxPulQhHUay.3vAVdg.Qu5SbwHHpz8tQgWlJnWTbW/Bo3ZBRAy0.",
+      "name": "Brian Emilius",
+      "address": "Pulsen 8",
+      "zip-code": "4000",
+      "city": "Roskilde",
+      "ticket-pickup": false,
+      "camp": "Skrald",
+      "ticket-count": 2,
+      "id": 3
+    }
+  ],
   "news": [
     {
       "id": 1,
+      "author": "Mediesusets pressegruppe",
+      "date": "2022-03-22T21:00:00.000Z",
       "title": "Metallica kommer på Mediesuset",
+      "subtitle": "Mediesuset præsenterer det legendariske amerikanske metal-band som en af årets koncerter.",
       "body": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
+        "Ladies and gentlemen, klar jer til et musikalsk brag uden lige, når legendariske Metallica indtager scenen på Mediesuset Festival! Det er en ære at byde jer velkommen til en uforglemmelig aften fyldt med rå power og ikoniske heavy metal-hymner. Metallica har i årtier leveret eksplosiv live-musik, og deres optræden på Mediesuset bliver intet mindre end episk.",
+        "Metallica har altid været kendt for deres energiske optrædener og teknisk dygtige musikalske præstationer. Fra James Hetfields rå vokal til Kirk Hammetts blændende guitarriffs og Lars Ulrichs krævende trommespil – dette er en koncertoplevelse, der vil ryste jer til kernen.",
         "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin.",
         "Chicken meatloaf cow ground round boudin brisket, shankle picanha buffalo. Pork loin rump strip steak bresaola, tail beef spare ribs. Swine sirloin t-bone tenderloin salami cow. Meatloaf chislic tri-tip beef short ribs short loin. Filet mignon shank sirloin ball tip turkey. Leberkas beef ribs pastrami, turkey chislic porchetta pancetta buffalo chicken kevin cow strip steak picanha. Brisket andouille tenderloin salami ham chislic.",
         "Fatback cupim capicola cow alcatra kielbasa shankle short ribs tongue pig landjaeger. Landjaeger chuck kevin short ribs porchetta burgdoggen t-bone tail hamburger leberkas jowl turkey brisket shank shankle. Doner chislic leberkas turducken cow spare ribs. Meatloaf turducken pork kevin. Pork loin jerky ham short ribs cow capicola. Biltong picanha swine ham, venison short ribs shank t-bone boudin cow. Doner chicken t-bone sausage buffalo cupim."
       ],
       "image": {
-        "src": "http://localhost:4000/Metallica_Photo.jpg",
+        "credits": "Metallica Press Photo",
+        "src": "http://localhost:4000/file-bucket/Metallica_Photo.jpg",
         "width": 360,
         "height": 190,
         "title": "Foto af bandmedlemmerne i Metallica"
@@ -19,16 +61,20 @@
     },
     {
       "id": 2,
+      "author": "Mediesusets pressegruppe",
+      "date": "2022-02-15T21:00:00.000Z",
       "title": "Hancock skriver kontrakt med Mediesuset",
+      "subtitle": "Mediesuset og bryggeriet Hancock indgår strategisk partnerskab.",
       "body": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin.",
-        "Chicken meatloaf cow ground round boudin brisket, shankle picanha buffalo. Pork loin rump strip steak bresaola, tail beef spare ribs. Swine sirloin t-bone tenderloin salami cow. Meatloaf chislic tri-tip beef short ribs short loin. Filet mignon shank sirloin ball tip turkey. Leberkas beef ribs pastrami, turkey chislic porchetta pancetta buffalo chicken kevin cow strip steak picanha. Brisket andouille tenderloin salami ham chislic.",
-        "Fatback cupim capicola cow alcatra kielbasa shankle short ribs tongue pig landjaeger. Landjaeger chuck kevin short ribs porchetta burgdoggen t-bone tail hamburger leberkas jowl turkey brisket shank shankle. Doner chislic leberkas turducken cow spare ribs. Meatloaf turducken pork kevin. Pork loin jerky ham short ribs cow capicola. Biltong picanha swine ham, venison short ribs shank t-bone boudin cow. Doner chicken t-bone sausage buffalo cupim."
+        "Hancock Bryggeri er stolt over at meddele et nyt strategisk partnerskab med Mediesuset Festival, en af landets mest prestigefyldte musikbegivenheder. Dette partnerskab markerer et spændende skridt i retning af at forene musik og øl, og det understreger vores engagement i at støtte den danske kulturscene.",
+        "Mediesuset har gennem årene fejret mangfoldigheden i musik, og vi er begejstrede for at være en del af denne oplevelse. Vores brede udvalg af øl, herunder klassikere og eksklusive varianter, vil blive tilgængelige for festivalgæsterne, og vi ser frem til at inspirere til uforglemmelige øjeblikke, når musik og øl smelter sammen.",
+        "Hancock Bryggeri og Mediesuset Festival deler værdierne om bæredygtighed og fællesskabsengagement. Sammen vil vi arbejde på at reducere vores miljømæssige fodspor under festivalen og støtte lokale initiativer. Dette partnerskab er mere end blot musik og øl; det handler om at skabe en positiv indvirkning på samfundet.",
+        "Vi ser frem til at byde festivalgæster velkommen til en uforglemmelig oplevelse fyldt med musik og øl i højeste kvalitet. Hancock Bryggeri vil tilbyde en særlig festivaløl, der er skabt til at komplementere den musikalske atmosfære og forstærke festivaloplevelsen.",
+        "Dette partnerskab repræsenterer en harmonisk fremtid, hvor musik og øl smelter sammen for at skabe magiske øjeblikke. Vi ser frem til at fejre musikkens kraft og øllets kvalitet sammen med festivalgæsterne på Mediesuset og ser frem til mange succesfulde år sammen. Sammen vil vi skabe uforglemmelige minder og bidrage til at gøre festivalen til en sensationel begivenhed."
       ],
       "image": {
-        "src": "http://localhost:4000/beer.jpg",
+        "credits": "Getty Images",
+        "src": "http://localhost:4000/file-bucket/beer.jpg",
         "width": 400,
         "height": 267,
         "title": "En flok mennesker, der skåler og drikker øl"
@@ -43,12 +89,13 @@
       "time": "22:00",
       "stage": "Blå Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "Metallica er et ikonisk heavy metal-band, der blev dannet i 1981 i Los Angeles, Californien. Bandet består af medlemmerne James Hetfield (vokal/guitar), Lars Ulrich (trommer), Kirk Hammett (lead guitar) og Robert Trujillo (bas). De har været en central figur inden for heavy metal-genren i årtier og er kendt for deres intense liveoptrædener og teknisk dygtige musik.",
+        "Bandets gennembrud kom med deres tredje album, 'Master of Puppets,' der er blevet betragtet som et af de mest indflydelsesrige metalalbums nogensinde. Deres musik kombinerer kraftfulde guitar-riffs, komplekse arrangementer og tekstlige temaer, der spænder fra personlige kampe til samfundsmæssige spørgsmål. Metallica har solgt over 125 millioner albums på verdensplan og er kendt for hits som 'Enter Sandman,' 'Nothing Else Matters' og 'One.'",
+        "Metallica har også været pionerer inden for metal-musikdistribuering og var en af de første bands, der omfavnede internettet og digitale platforme for at nå deres fans. De har også været involveret i velgørenhedsarbejde og er aktive fortalere for musikundervisning og hjælper organisationer, der støtter veteraner og socialt udsatte grupper. Bandet fortsætter med at turnere og skabe ny musik, hvilket sikrer, at deres arv i heavy metal-verdenen forbliver stærk."
       ],
       "image": {
-        "src": "http://localhost:4000/Metallica_Photo.jpg",
+        "credits":"Metallica Press Photo",
+        "src": "http://localhost:4000/file-bucket/Metallica_Photo.jpg",
         "width": 360,
         "height": 190,
         "title": "Foto af bandmedlemmerne i Metallica"
@@ -61,12 +108,13 @@
       "time": "21:30",
       "stage": "Rød Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "Slipknot er en ikonisk heavy metal-gruppe, der blev dannet i Des Moines, Iowa, i 1995. Bandet er kendt for sin unikke og kontroversielle visuelle æstetik, der inkluderer medlemmernes karakteristiske masker og dragter. Dette visuelle element kombineres med en aggressiv musikstil, der spænder fra nu-metal til alternative metal, hvilket har gjort Slipknot til en af de mest genkendelige og banebrydende grupper i heavy metal-verdenen.",
+        "Slipknots musik er præget af intensitet, vrede og dyb emotionel påvirkning. Bandets tekstlige temaer spænder fra personlige kampe til samfundsmæssige spørgsmål og indfanger ofte den mørkere side af menneskelivet. Bandets evne til at blande komplekse tromme- og guitararrangementer med Corey Taylors kraftfulde vokal har skabt et musikalsk udtryk, der appellerer til en bred vifte af fans.",
+        "Slipknot har gennemgået flere musikalske udviklinger i løbet af deres karriere, hvilket har holdt dem friske og relevante i heavy metal-genren. Deres liveoptrædener er legendariske og kendt for deres energi og teatralske elementer, herunder medlemmernes bevægelse på scenen og brugen af ​​perkussion og samples. Med adskillige multi-platinum-albums og en dedikeret fanbase fortsætter Slipknot med at præge heavy metal-landskabet og efterlade et uudsletteligt aftryk på musikverdenen."
       ],
       "image": {
-        "src": "http://localhost:4000/slipknot.jpg",
+        "credits":"Slipknot press photo",
+        "src": "http://localhost:4000/file-bucket/slipknot.jpg",
         "width": 450,
         "height": 247,
         "title": "Foto af bandmedlemmerne i Slipknot"
@@ -74,20 +122,21 @@
     },
     {
       "id": 3,
-      "name": "D-A-D",
+      "name": "D.A.D",
       "day": "Onsdag",
       "time": "20:00",
       "stage": "Blå Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "D.A.D er et dansk rockband med rødder i København. Bandet blev dannet i 1982 og består af medlemmerne Jesper Binzer (vokal og guitar), Jacob Binzer (guitar), Stig Pedersen (bas) og Laust Sonne (trommer). Oprindeligt var de inspireret af punkmusik, men de udviklede hurtigt deres egen unikke rockstil.",
+        "D.A.D opnåede international anerkendelse med deres album 'No Fuel Left for the Pilgrims' fra 1989, der indeholdt hits som 'Sleeping My Day Away' og 'Jihad.' Albummet blev en kritisk og kommerciel succes og hjalp med at cementere bandets position som et af de mest betydningsfulde rockbands fra Danmark. De har også udgivet flere andre velmodtagne album og turneret over hele verden.",
+        "Selv efter årtier i musikbranchen forbliver D.A.D aktive og fortsætter med at udgive ny musik og turnere. Deres musikalske udvikling har ført dem gennem forskellige stilarter, herunder punk, rock, og alternative rock, hvilket har bidraget til deres vedvarende appel til et bredt publikum. D.A.D's musik og scenetilstedeværelse fortsætter med at være en værdifuld del af den danske og internationale rockscene."
       ],
       "image": {
-        "src": "http://localhost:4000/d-a-d.jpg",
+        "credits": "D.A.D Press Photo",
+        "src": "http://localhost:4000/file-bucket/d-a-d.jpg",
         "width": 454,
         "height": 255,
-        "title": "Foto af bandmedlemmerne i D-A-D"
+        "title": "Foto af bandmedlemmerne i D.A.D"
       }
     },
     {
@@ -97,12 +146,13 @@
       "time": "15:00",
       "stage": "Lilla Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "Red Warzawa er et dansk band, der har markeret sig som et af de mest utraditionelle og skæve inden for musikscenen. Gruppen blev dannet i 1991 i København og består af medlemmerne Høgni Reistrup (vokal), Lækre Jens (guitar), Trisse Gejl (bas) og Sorte Får (trommer). Deres musik er en blanding af punk, comedy og satire, og de er kendt for deres humoristiske tekster og skøre sceneshow.",
+        "Red Warzawa's tekster er fyldt med satire og sarkasme og fungerer ofte som en kommentar til samfunds- og kulturanliggender. Sangene indeholder ofte absurde og komiske elementer, der får publikum til at grine og samtidig reflektere over de emner, der berøres. Bandet har opnået kultstatus i Danmark takket være deres skarpe og underholdende kritik.",
+        "Red Warzawa har haft en betydelig indflydelse på den danske musikscene, især inden for punk og comedy-genrerne. Deres uortodokse tilgang til musik og underholdning har inspireret mange efterfølgende kunstnere til at eksperimentere med satire og humor i deres eget arbejde. Selvom de startede som en parodigruppe, har Red Warzawa bevist deres vedvarende relevans ved at skabe musik og comedy, der fortsat appellerer til nye generationer af fans."
       ],
       "image": {
-        "src": "http://localhost:4000/red-warzawa.jpg",
+        "credits": "Red Warzawa Press Photo",
+        "src": "http://localhost:4000/file-bucket/red-warzawa.jpg",
         "width": 400,
         "height": 266,
         "title": "Foto af bandmedlemmerne i Red Warzawa"
@@ -115,12 +165,13 @@
       "time": "21:00",
       "stage": "Blå Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "Steel Inferno er et dansk heavy metal-band, der har trådt ind på scenen som en værdifuld repræsentant for den traditionelle heavy metal og hård rock, som Danmark er kendt for. Med rødder i København har dette speed metal-powerhouse i det sidste årti været en af frontløberne i den nye genopblomstrende bølge af traditionel heavy metal. Deres musik er karakteriseret ved sin rasende energi og henvender sig uimodståeligt til fans af klassisk metal i stil med Agent Steel, tidlig Slayer og Overkill, samt alle, der elsker fart og intensitet sammen med en snert af ondsindet melodi.",
+        "Steel Inferno blev dannet i 2012 og har siden udgivet to fuldlængde album: 'Aesthetics of Decay' i 2016 og '...And the Earth Stood Still' i 2020. I 2020 sluttede bandet sig til den nye sanger Chris Rostoff, og de begyndte at skrive nye sange. Bandet indgik en aftale med From The Vaults i 2021 og gik ind i Angioni Studios tidligt i 2022 for at indspille albummet 'Evil Reign.' Dette album tager bandet i en lidt anden retning. Hvis Steel Inferno's tidlige materiale lignede europæisk metal som tidlige Accept og Judas Priest, er det nyere materiale tættere på nogle af de tidligste amerikanske power metal-bands som Helstar og Jag Panzer - alt sammen blandet med grundlæggende inspiration fra tidlig thrash og speed metal.",
+        "Steel Inferno består af følgende medlemmer: Chris Rostoff (vokal), Jens Andersen (guitar), Thierry Zubritovsky (bas), Lars Lyndorff (guitar) og Krzysztof Baran (trommer). Med udgivelsen af 'Evil Reign' i 2022 har bandet indtaget en ny retning inden for deres musikalske rejse. De bevarer stadig deres kærlighed til den klassiske heavy metal-lyd, men eksperimenterer med elementer af amerikansk power metal og tidlig thrash. 'Evil Reign' repræsenterer en fortsat udvikling for Steel Inferno og lover at være en vigtig udgivelse for alle, der elsker ægte metal med en høj dosis intensitet."
       ],
       "image": {
-        "src": "http://localhost:4000/steel-inferno.jpg",
+        "credits": "Steel Inferno Press Photo",
+        "src": "http://localhost:4000/file-bucket/steel-inferno.jpg",
         "width": 928,
         "height": 688,
         "title": "Foto af bandmedlemmerne i Steel Inferno"
@@ -133,12 +184,13 @@
       "time": "23:00",
       "stage": "Rød Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "Korn er et amerikansk nu-metalband, der blev dannet i Bakersfield, Californien, i 1993. Bandet består af medlemmerne Jonathan Davis (vokal), James 'Munky' Shaffer (guitar), Brian 'Head' Welch (guitar), Reginald 'Fieldy' Arvizu (bas) og Ray Luzier (trommer). De var en afgørende kraft i populariseringen af nu-metalgenren og blev kendt for deres unikke lyd, der inkluderede tung guitar, dyster atmosfære og Davids karakteristiske vokal.",
+        "Korn har udgivet en række succesfulde albums, der har konsolideret deres status som et af de mest betydningsfulde rockbands i verden. Albummet 'Follow the Leader' fra 1998 indeholdt hits som 'Freak on a Leash' og 'Got the Life,' der hjalp med at popularisere bandet på verdensplan. Deres musikalske eksperimenter og dygtighed i at blande elementer fra forskellige genrer, som industrial og alternative rock, har ført til en vedvarende tiltrækningskraft hos et bredt publikum.",
+        "Korn har opretholdt en lang og produktiv karriere, og de har fortsat med at udgive album og turnere rundt om i verden. De har også haft en betydelig indflydelse på den moderne rockscene og har inspireret adskillige efterfølgende bands og musikere. Deres tekster behandler ofte personlige kampe og følelsesmæssige udfordringer, hvilket har gjort dem til en vigtig stemme i musikken. Korn er fortsat en stærk kraft inden for rockmusik og bevarer deres status som en af genrens mest ikoniske grupper."
       ],
       "image": {
-        "src": "http://localhost:4000/korn.jpg",
+        "credits": "Korn Press Photo",
+        "src": "http://localhost:4000/file-bucket/korn.jpg",
         "width": 450,
         "height": 337,
         "title": "Foto af bandmedlemmerne i Korn"
@@ -151,12 +203,13 @@
       "time": "23:00",
       "stage": "Rød Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "Disturbed er et amerikansk heavy metalband, der blev dannet i Chicago, Illinois, i 1994. Gruppen består af David Draiman (vokal), Dan Donegan (guitar), John Moyer (bas) og Mike Wengren (trommer). De er kendt for deres kraftfulde og intens musikstil, der kombinerer elementer af heavy metal med alternative rock. Disturbed har skabt deres egen unikke lyd, der omfatter aggressive guitarer, stramme rytmer og Draimans karakteristiske vokal.",
+        "Disturbed brød igennem med deres debutalbum, 'The Sickness,' i 2000, der indeholdt hits som 'Down with the Sickness' og 'Stupify.' Albummet blev en stor kommerciel succes og etablerede bandet som en vigtig spiller inden for metalgenren. De har fortsat med at udgive flere velmodtagne albums, herunder 'Believe,' 'Ten Thousand Fists' og 'Indestructible.' Bandets tekster fokuserer ofte på personlige og samfundsmæssige temaer og har resoneret med et bredt publikum.",
+        "Disturbed har været en konstant kraft inden for heavy metal i over to årtier og har opnået adskillige multi-platinum-certificeringer og priser i løbet af deres karriere. De har også været aktive i velgørenhedsarbejde og har støttet veteraner og mentalt sundhedsmæssige årsager. Bandet fortsætter med at turnere og udgive ny musik og er fortsat en betydningsfuld indflydelse inden for rock- og metalverdenen."
       ],
       "image": {
-        "src": "http://localhost:4000/disturbed.jpg",
+        "credits": "Disturbed Press Photo",
+        "src": "http://localhost:4000/file-bucket/disturbed.jpg",
         "width": 460,
         "height": 300,
         "title": "Foto af bandmedlemmerne i Disturbed"
@@ -169,12 +222,13 @@
       "time": "20:00",
       "stage": "Grøn Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "Volbeat er et dansk rockband, der blev dannet i København i 2001. Bandet består af Michael Poulsen (vokal og guitar), Jon Larsen (trommer), Rob Caggiano (lead guitar) og Kaspar Boye Larsen (bas). Volbeat er kendt for deres unikke blanding af rock 'n' roll, heavy metal og punk med en stærk inspiration fra 1950'ernes og 1960'ernes rockabilly og rock 'n' roll. Denne originale musikstil har gjort dem til en af de mest genkendelige og elskede rockgrupper i verden.",
+        "Volbeat har opnået en betydelig international succes med albummer som 'Guitar Gangsters & Cadillac Blood' og 'Outlaw Gentlemen & Shady Ladies.' Bandets musik har en bred appel og indeholder ofte catchy melodier og medrivende tekster. Sange som 'Still Counting,' 'A Warrior's Call' og 'Heaven Nor Hell' er blevet store hits, og bandet har optrådt på store festivaler og turneer verden over.",
+        "Volbeat er kendt for deres vedholdenhed og konstante aktivitet. De udgiver regelmæssigt nyt materiale og udforsker forskellige musikalske stilarter, hvilket holder deres lyd frisk og varieret. Bandet er også kendt for deres intense og energiske liveoptrædener, hvor de formår at skabe en unik forbindelse med publikum. Volbeat er en afgørende del af den moderne rockscene og fortsætter med at inspirere og underholde fans verden over."
       ],
       "image": {
-        "src": "http://localhost:4000/volbeat.jpg",
+        "credits": "Volbeat Press Photo",
+        "src": "http://localhost:4000/file-bucket/volbeat.jpg",
         "width": 1080,
         "height": 720,
         "title": "Foto af bandmedlemmerne i Volbeat"
@@ -187,53 +241,161 @@
       "time": "21:00",
       "stage": "Grøn Scene",
       "description": [
-        "Bacon ipsum dolor amet cow drumstick cupim, spare ribs turducken shank pastrami kevin meatball t-bone. Biltong ball tip bresaola, beef shank beef ribs pig pancetta cow fatback. Kevin hamburger prosciutto, rump picanha capicola spare ribs ham hock swine. Leberkas andouille salami burgdoggen brisket cow prosciutto shankle spare ribs ball tip. Shoulder corned beef ribeye pastrami ham hock bacon kevin, cupim cow boudin ground round pig chuck pork belly. Leberkas kevin bacon tenderloin.",
-        "Drumstick picanha beef ribs, prosciutto capicola bresaola porchetta leberkas. Kielbasa beef ribs pork, chicken corned beef ball tip short loin ground round tri-tip andouille shoulder meatloaf t-bone turkey. Pork chop sirloin short ribs, shoulder pork loin salami biltong hamburger beef picanha pork flank. Strip steak fatback turducken meatloaf leberkas.",
-        "Pork belly pastrami short ribs flank kielbasa pork loin, rump bresaola buffalo boudin picanha venison fatback sausage. Boudin cupim jowl picanha. Bacon shank sirloin ground round bresaola brisket, ham hock biltong filet mignon. Kevin beef ribs turkey, filet mignon buffalo short ribs pork belly andouille meatloaf pastrami tenderloin."
+        "Big Fat Snake er et dansk rockband, der blev dannet i 1990. Bandet har gennem årene haft en skiftende besætning, men den konstante drivkraft har været sanger og sangskriver Anders Blichfeldt. Musikalsk har Big Fat Snake en alsidig stil, der spænder over rock, pop og blues. Deres musik er kendetegnet ved stærke melodier, energiske liveoptrædener og ofte humoristiske tekster.",
+        "Big Fat Snake har udgivet en række populære sange og albums i Danmark. Deres album 'Midnight Mission' fra 1995 indeholdt hits som 'Bonsoir Madame' og 'No Peace Like in Heaven,' der hjalp med at gøre dem til et kendt navn i dansk musik. Bandet har også udgivet andre velmodtagne albums som 'Recycled' og 'Between the Devil and the Big Blue Sea.' Deres musik har en vedvarende tiltrækningskraft og er blevet et soundtrack til mange danskeres liv.",
+        "Big Fat Snake har opretholdt en lang og succesrig karriere i Danmark og har fortsat med at turnere og optræde for deres dedikerede fanbase. Deres liveoptrædener er kendt for at være fyldt med energi og publikumsdeltagelse, hvilket gør dem til et populært liveband. Selvom bandet har oplevet ændringer i besætningen og musikalske retninger gennem årene, har de bevaret deres plads som en vigtig del af den danske musikscene."
       ],
       "image": {
-        "src": "http://localhost:4000/bfs.jpg",
+        "credits": "Big Fat Snake Press Photo",
+        "src": "http://localhost:4000/file-bucket/bfs.jpg",
         "width": 468,
         "height": 291,
         "title": "Foto af bandmedlemmerne i Big Fat Snake"
       }
     }
   ],
-  "users": [
-    {
-      "email": "be@rts.dk",
-      "password": "$2a$10$R98Vvvd0FvOzN0jpOPbpM.J49saIOdLpL2yV.8VrygBHe79mWLAqO",
-      "name": "Brian Emilius",
-      "address": "Pulsen 8",
-      "zip-code": "4000",
-      "city": "Roskilde",
-      "ticket-pickup": false,
-      "camp": "Skrald",
-      "ticket-count": 2,
-      "id": 1
-    }
-  ],
-  "my-program": [
+  "users_bands": [
     {
       "userId": 1,
-      "band": 5,
+      "bandId": 5,
       "id": 1
     },
     {
       "userId": 1,
-      "band": 3,
+      "bandId": 3,
       "id": 2
     },
     {
       "userId": 1,
-      "band": 1,
+      "bandId": 1,
       "id": 3
+    },
+    {
+      "userId": 2,
+      "bandId": 4,
+      "id": 4
+    }
+  ],
+  "camps": [
+    {
+      "id": 12301,
+      "name": "Camp Colorit",
+      "capacity": 1200,
+      "intro": "Camp Colorit strækker sig over imponerende 1200 pladser og tilbyder festivaldeltagere en unik oplevelse af samvær og fællesskab. Med mulighed for forhåndsreservation af pladser er gæsterne garanteret en problemfri ankomst og adgang til hjertet af festivalen.",
+      "description": [
+        "Camp Colorit er omhyggeligt designet med fokus på gæsternes komfort og sikkerhed. Alle festivaldeltagere, der bærer deres armbånd, har ubegrænset adgang til dette dynamiske centrum, hvor de kan oprette deres midlertidige hjem og dele øjeblikke med ligesindede musikentusiaster.",
+        "For at sikre bekvemmelighed findes der velholdte toiletanlæg med tilstrækkelige faciliteter, der sikrer, at gæsterne forbliver komfortable under hele festivalen. Hertil kommer, at der er mulighed for betalt adgang til brusefaciliteter, så festivaldeltagerne kan forfriske sig efter en lang dag fyldt med musik og festligheder.",
+        "Camp Colorit er mere end blot et sted at hvile hovedet; det er epicentret for festivalånden, hvor folk deler øjeblikke, knytter venskaber og skaber minder, der varer livet ud."
+      ],
+      "facilities": [
+        "1200 rummelige pladser til camping.",
+        "Mulighed for forhåndsreservation af campingpladser.",
+        "Adgang med festivalarmbånd.",
+        "Velholdte toiletanlæg med gode faciliteter.",
+        "Brusefaciliteter mod betaling.",
+        "Livligt fællesskab og mulighed for at skabe minder med medfestivaldeltagere."
+      ],
+      "restaurants": [
+        {
+          "name": "Tasty Tunes Café",
+          "description": "En hyggelig café med et varieret udvalg af snacks, sandwich, og forfriskende drikkevarer, perfekt til en hurtig bid mad mellem koncerter."
+        },
+        {
+          "name": "Rhythmic Bites Grill",
+          "description": "En grillrestaurant, der serverer saftige burger, grillet kylling, og vegetariske muligheder, alt sammen ledsaget af lækre sideretter og dip."
+        },
+        {
+          "name": "Harmony Hut Pizza",
+          "description": "Her kan du nyde velsmagende pizzaer med et udvalg af toppings, friskbagte i en brændefyret ovn, der giver dem den perfekte sprødhed."
+        },
+        {
+          "name": "Mellow Melodies Food Truck",
+          "description": "En mobil madvogn, der tilbyder international gadekøkken, fra tacos og kebabs til fusionsspecialiteter og gourmethotdogs."
+        },
+        {
+          "name": "Soulful Sips Juice Bar",
+          "description": "Et sundt alternativ med friske smoothies, juice, og frugtsalater for dem, der ønsker at genopfriske sig med noget lækkert og næringsrigt."
+        }
+      ]
+    },
+    {
+      "id": 12302,
+      "name": "Camp Kultunaut",
+      "capacity": 600,
+      "intro": "Camp Kultunaut er en unik oase på Mediesuset, der kun åbner sine porte for de heldige indehavere af 4-dages partout armbånd. Dette eksklusive campingområde, som er festivalens næststørste, byder på en kombination af bekvemmeligheder og atmosfære, der gør det til et must-besøg for enhver festivaldeltager.",
+      "description": [
+        "Med godt vedligeholdte toiletanlæg og gratis adgang til brusere kan gæsterne nyde en behagelig festivaloplevelse. Derudover tilbyder Camp Kultunaut strømtilslutning på campingpladserne, hvilket gør det nemt for besøgende at oplade deres enheder og skabe et komfortabelt festivalmiljø.",
+        "Mens du slentrer gennem campområdet, vil du støde på hyggelige caféer og madsteder, hvor du kan smage en bred vifte af lækker mad og drikke. Dette gør det til det perfekte sted at nyde måltider eller bare slappe af med vennerne i Camp Kultunauts afslappede atmosfære.",
+        "Med 600 tilgængelige pladser er Camp Kultunaut en eftertragtet destination for festivaldeltagere, der søger en kombination af komfort og festlig stemning. Det er et sted, hvor minder skabes, venskaber knyttes, og festivalånden blomstrer."
+      ],
+      "facilities": [
+        "Eksklusiv Adgang: Adgang til Camp Kultunaut kræver et 4-dages partout armbånd, hvilket giver en eksklusiv og mere privat campingoplevelse.",
+        "God Toilet- og Badeværelsesfaciliteter: Camp Kultunaut tilbyder velholdte toiletanlæg og gratis brusere, der sikrer bekvemmelighed og renlighed for gæsterne.",
+        "Strømtilslutning: Campingpladserne er udstyret med strømtilslutning, hvilket giver mulighed for opladning af elektroniske enheder og skaber et mere behageligt ophold.",
+        "Cafeer og Madsteder: Camp Kultunaut har hyggelige caféer og madsteder, hvor festivaldeltagere kan nyde forskellige kulinariske retter og drikkevarer.",
+        "600 Pladser: Med 600 tilgængelige pladser tilbyder Camp Kultunaut en indbydende og festlig atmosfære for et udvalgt antal festivalgæster, der ønsker en komfortabel og eksklusiv campingoplevelse."
+      ],
+      "restaurants": [
+        {
+          "name": "Café Melody",
+          "description": "En hyggelig café med et varieret udvalg af snacks, sandwich, og forfriskende drikkevarer, perfekt til en hurtig bid mad mellem koncerter."
+        },
+        {
+          "name": "Groovy Grill",
+          "description": "En grillrestaurant, der serverer saftige burger, grillet kylling, og vegetariske muligheder, alt sammen ledsaget af lækre sideretter og dip."
+        },
+        {
+          "name": "Playin' Pizza",
+          "description": "Her kan du nyde velsmagende pizzaer med et udvalg af toppings, friskbagte i en brændefyret ovn, der giver dem den perfekte sprødhed."
+        },
+        {
+          "name": "Rythms-n-Juice",
+          "description": "Et sundt alternativ med friske smoothies, juice, og frugtsalater for dem, der ønsker at genopfriske sig med noget lækkert og næringsrigt."
+        }
+      ]
+    },
+    {
+      "id": 12303,
+      "name": "Camp De Luxe",
+      "capacity": 400,
+      "intro": "Camp De Luxe er det ultimative eksklusive campingområde på Mediesuset musikfestivalen, hvor kun de heldige indehavere af 4-dages De Luxe armbånd kan få adgang. Dette luksuriøse tilbud giver festivaldeltagerne en uforglemmelig oplevelse med ekstraordinær komfort og bekvemmelighed.",
+      "description": [
+        "Hver gæst på Camp De Luxe får tildelt et stilfuldt og veludstyret telt, som fungerer som deres hjem væk fra hjemmet under festivalen. Disse teltfaciliteter er skabt med tanke på komfort og privatliv, hvilket giver en rolig og behagelig atmosfære.",
+        "Toilet- og badeforholdene i Camp De Luxe er i særklasse med topmoderne faciliteter, der sikrer, at gæsterne kan forfriske sig og slappe af i luksuriøse omgivelser.",
+        "For dem der ønsker at starte dagen godt, tilbyder Camp De Luxe muligheden for at bestille morgenmad på selve området, hvor du kan nyde velsmagende og nærende måltider, inden dagens festivaloplevelser begynder.",
+        "Som en ekstra bonus får alle gæster i Camp De Luxe en daglig gratis madbillet, som kan bruges på et af festivalens spisesteder. Dette tilføjer en kulinarisk dimension til oplevelsen og giver mulighed for at udforske festivalens kulinariske mangfoldighed.",
+        "Med kun 400 tilgængelige pladser er Camp De Luxe en eksklusiv oase inden for festivalen, hvor komfort, bekvemmelighed og luksus går hånd i hånd med musik og festligheder, og hvor minder skabes i stil og elegance."
+      ],
+      "facilities": [
+        "Eksklusive Telte: Hver gæst på Camp De Luxe får et stilfuldt og veludstyret telt, som fungerer som deres komfortable hjem væk fra hjemmet under festivalen.",
+        "Luksuriøse Toilet- og Badefaciliteter: Camp De Luxe tilbyder topmoderne toilet- og brusefaciliteter, der sikrer, at gæsterne kan nyde festivalen med ekstraordinær komfort og bekvemmelighed.",
+        "Morgenmadsservice: Gæsterne har mulighed for at bestille morgenmad på selve området, så de kan starte dagen med velsmagende og nærende måltider, inden festivalens aktiviteter begynder.",
+        "Gratis Madbillet til Festivalens Spisesteder: Alle gæster i Camp De Luxe modtager en daglig gratis madbillet, som kan bruges på et af festivalens spisesteder, hvilket giver en kulinarisk dimension til oplevelsen og mulighed for at udforske forskellige smagsoplevelser."
+      ],
+      "restaurants": [
+        {
+          "name": "Gourmet Galaksen",
+          "description": "En gastronomisk oplevelse ud over det sædvanlige, hvor gæsterne kan nyde eksklusive retter, fine vine og unikke kulinariske kreationer i en elegant atmosfære."
+        },
+        {
+          "name": "Epicurean Oasis: ",
+          "description": "Dette sted er kendt for sin raffinerede menu, der fokuserer på sæsonbestemte råvarer og innovative tilberedningsmetoder, hvilket giver gæsterne en smagsoplevelse af højeste kvalitet."
+        },
+        {
+          "name": "Luxe Lounge & Vinbar",
+          "description": "En sofistikeret lounge, hvor gæsterne kan slappe af med et udvalg af luksuriøse vine, cocktails og gourmettapas i en eksklusiv og indbydende atmosfære."
+        }
+      ]
     }
   ],
   "subscribe": [
     {
       "email": "be@rts.dk",
       "id": 1
+    },
+    {
+      "email": "be@rts.dk",
+      "id": 2
     }
   ]
 }
