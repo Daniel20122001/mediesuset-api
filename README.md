@@ -24,4 +24,4 @@ yarn start
 
 ## Documentation
 
-Find the API documentation at https://localhost:4000
+Find the API documentation at http://localhost:4000
