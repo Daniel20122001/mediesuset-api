@@ -24,4 +24,4 @@ yarn start
 
 ## Documentation
 
-Find the API documentation on https://github.com/rts-cmk-opgaver/mediesuset-docs (clone and run in live-server)
+Find the API documentation at http://localhost:4000
